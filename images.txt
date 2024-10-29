@@ -3,3 +3,4 @@ node
 mysql:8.0.33
 openjdk:11.0-jre-buster
 redis
+minio/minio:latest
