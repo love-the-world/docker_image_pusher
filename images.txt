@@ -5,3 +5,4 @@ openjdk:11.0-jre-buster
 redis
 minio/minio:latest
 minio/minio:RELEASE.2023-03-24T21-41-23Z
+minio/minio:RELEASE.2022-10-24T18-35-07Z
