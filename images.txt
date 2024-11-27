@@ -10,3 +10,4 @@ keking/kkfileview:latest
 rabbitmq:3.8-management
 minio/minio:RELEASE.2021-02-14T04-01-33Z
 nacos/nacos-server:1.4.1
+mongo:latest
