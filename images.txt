@@ -11,3 +11,4 @@ rabbitmq:3.8-management
 minio/minio:RELEASE.2021-02-14T04-01-33Z
 nacos/nacos-server:1.4.1
 apache/skywalking-oap-server:latest
+camunda/camunda-bpm-platform:7.17.0
