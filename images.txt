@@ -13,3 +13,4 @@ nacos/nacos-server:1.4.1
 apache/skywalking-oap-server:latest
 camunda/camunda-bpm-platform:7.17.0
 zookeeper:latest
+zookeeper:3.8.1
